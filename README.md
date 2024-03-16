@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Murat Yeydem</h1>
-<h3 align="center">.Net Full Stack Developer from Türkiye. I am currently BilgeAdam Boost FullStack Software Developer Training Program Participant. The skills it has gained are: ASP.NET · ASP.NET MVC · ASP.NET Web API · .NET Core · SOLID Design Principles · C# · Microsoft SQL Server · .NET Framework · HTML5 · Cascading Style Sheets (CSS) · Object-Oriented Programming (OOP) · Entity Framework · ADO.NET · JavaScript · HTML</h3>
+<h3 align="center">.Net Full Stack Developer from Türkiye</h3>
+<h5 align="center">I am currently BilgeAdam Boost FullStack Software Developer Training Program Participant. The skills it has gained are: ASP.NET · ASP.NET MVC · ASP.NET Web API · .NET Core · SOLID Design Principles · C# · Microsoft SQL Server · .NET Framework · HTML5 · Cascading Style Sheets (CSS) · Object-Oriented Programming (OOP) · Entity Framework · ADO.NET · JavaScript · HTML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratyeydem&label=Profile%20views&color=0e75b6&style=flat" alt="muratyeydem" /> </p>
 
